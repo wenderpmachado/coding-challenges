@@ -1,3 +1,10 @@
+/**
+ * Given an array, rotate the array to the right by k steps, where k is non-negative.
+ *
+ * @param nums number[]
+ * @param k number
+ * @returns number[]
+ */
 export const rotate = (nums: number[], k: number) => {
   const rotations = k * -1;
 
