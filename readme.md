@@ -30,7 +30,7 @@ Each code challenge has unit tests with use cases. To run the tests, use the com
 
 > To see the test coverage, open the file `coverage/lcov-report/index.html` in your browser, after running the command above.
 
-![Code Coverage](./.github/code-coverage.png)
+![Code Coverage](./.github/code-coverage-v2.png)
 
 ## :bug: Issues
 
