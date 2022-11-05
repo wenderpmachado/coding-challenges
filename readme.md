@@ -38,7 +38,7 @@ If you already found a solution to your problem, **I would like to review your p
 
 ## :closed_book: License
 
-Released in 2020.
+Released in 2022.
 This project is under the [MIT license](https://github.com/wenderpmachado/coding-challenges/main/LICENSE).
 
 Made by [Wender Machado](https://github.com/wenderpmachado) 💚🚀
